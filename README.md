@@ -28,6 +28,7 @@ The project is written in **C** and targets the **STM32L476RG Nucleo** board (AR
 4. Reset the board to start the application.
 
 ## Authors
-**Manraj Minhas**
+**Manraj Minhas**,
 **Will Calder**
 University of Victoria
+
